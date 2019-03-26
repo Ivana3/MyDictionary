@@ -1,0 +1,5 @@
+pineapple=A large juicy tropical fruit consisting of aromatic edible yellow flesh surrounded by a tough segmented skin and topped with a tuft of stiff leaves.
+strawberry=A sweet soft red fruit with a seed-studded surface.
+orange=A large round juicy citrus fruit with a tough bright reddish-yellow rind.
+banana=A long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe.
+pear=A sweet yellowish- or brownish-green edible fruit that is typically narrow at the stalk and wider towards the base, with sweet, slightly gritty flesh.
